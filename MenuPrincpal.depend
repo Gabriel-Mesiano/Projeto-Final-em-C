@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1576695517 source:c:\users\gabriel mesiano\desktop\faculdade\ip\menuprincpal\funcoesmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"FuncoesStrings.h"
+
+1576532845 source:c:\users\gabriel mesiano\desktop\faculdade\ip\menuprincpal\funcoesstrings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1576691674 source:c:\users\gabriel mesiano\desktop\faculdade\ip\menuprincpal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"FuncoesMenu.h"
+	"FuncoesStrings.h"
+
+1576691674 c:\users\gabriel mesiano\desktop\faculdade\ip\menuprincpal\funcoesmenu.h
+
+1576444005 c:\users\gabriel mesiano\desktop\faculdade\ip\menuprincpal\funcoesstrings.h
+
+1576691361 source:c:\users\gabriel mesiano\desktop\faculdade\ip\menuprincpal\gestorpresencas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1576695253 source:c:\users\gabriel mesiano\desktop\faculdade\ip\menuprincpal\funcaoconversorbases.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1579017972 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcaoconversorbases.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1578607457 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoesmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"FuncoesStrings.h"
+
+1578608392 c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoesstrings.h
+
+1579017755 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoesstrings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1578564273 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\gestorpresencas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1579241105 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"funcoes_strings.h"
+	"funcoes_utilitarias.h"
+
+1576691674 c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoesmenu.h
+
+1579018071 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoescbases.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+
+1575372030 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoes_utilitarias.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"funcoes_utilitarias.h"
+
+1575372030 c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoes_utilitarias.h
+
+1578964849 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\gestordepresencas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes_utilitarias.h"
+
+1578517402 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\operacoesnumericas.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_operacoes_numericas.h"
+	"operacoesNumericas.h"
+
+1578449582 c:\users\gabri\desktop\faculdade\ip\menuprincpal\menu_operacoes_numericas.h
+
+1578517402 c:\users\gabri\desktop\faculdade\ip\menuprincpal\operacoesnumericas.h
+
+1579242582 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\menu_operacoes_numericas.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_utilitarias.h"
+	"menu_operacoes_numericas.h"
+	"operacoesNumericas.h"
+
+1578613683 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\conversaodebases\funcoescbases.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+
+1578607637 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\fucoesstrings\funcoesstrings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1575372030 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoesutilitarias\funcoes_utilitarias.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"funcoes_utilitarias.h"
+
+1575372030 c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoesutilitarias\funcoes_utilitarias.h
+
+1579016531 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\conversaodebases\funcaoconversorbases.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1578517402 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\operacoesnumericas\operacoesnumericas.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_operacoes_numericas.h"
+	"operacoesNumericas.h"
+
+1578449582 c:\users\gabri\desktop\faculdade\ip\menuprincpal\operacoesnumericas\menu_operacoes_numericas.h
+
+1578517402 c:\users\gabri\desktop\faculdade\ip\menuprincpal\operacoesnumericas\operacoesnumericas.h
+
+1579068809 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoes_vetores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funcoes_vetores.h"
+	"menu_utilizacao_vetores.h"
+	"funcoes_utilitarias.h"
+
+1578936160 c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoes_vetores.h
+
+1578936526 c:\users\gabri\desktop\faculdade\ip\menuprincpal\menu_utilizacao_vetores.h
+
+1579017769 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\mainvetores.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_utilitarias.h"
+	"menu_utilizacao_vetores.h"
+
+1579069169 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\menu_vetores.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"operacoes_vetores.h"
+	"funcoes_utilitarias.h"
+	"menu_utilizacao_vetores.h"
+	"operacoes_vetores.h"
+
+1578936606 c:\users\gabri\desktop\faculdade\ip\menuprincpal\operacoes_vetores.h
+
+1579017329 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\operacoes_vetores.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes_utilitarias.h"
+	"funcoes_vetores.h"
+
+1579018157 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcao_conversordebases.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1579018071 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\operacoes_conversordebases.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+
+1579017755 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoes_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1579240580 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcao_matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1578948605 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\matriz simetrica.c
+	<stdio.h>
+	<stdlib.h>
+
+1578748280 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\multiplicação de  matrizes.c
+	<stdio.h>
+	<stdlib.h>
+
+1578868176 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\soma de cada linha da matriz.c
+	<stdio.h>
+	<stdlib.h>
+
+1578749800 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\soma de duas matrizes.c
+	<stdio.h>
+	<stdlib.h>
+
+1579240107 c:\users\gabri\desktop\faculdade\ip\menuprincpal\funcoes_strings.h
+
+1579102433 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\gestor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"gestor.h"
+	"gestorComandos.h"
+
+1579036646 c:\users\gabri\desktop\faculdade\ip\menuprincpal\gestor.h
+
+1579039981 c:\users\gabri\desktop\faculdade\ip\menuprincpal\gestorcomandos.h
+
+1579203087 source:c:\users\gabri\desktop\faculdade\ip\menuprincpal\gestorcomandos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"gestor.h"
+	"gestorComandos.h"
+

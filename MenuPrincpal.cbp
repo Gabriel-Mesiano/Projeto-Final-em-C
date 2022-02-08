@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MenuPrincpal" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MenuPrincpal" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MenuPrincpal" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="dadosGestor" />
+		<Unit filename="dadosGestorExemplo" />
+		<Unit filename="dadosGestorNo" />
+		<Unit filename="funcao_conversordebases.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcao_conversordebases.h" />
+		<Unit filename="funcao_matriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcao_matriz.h" />
+		<Unit filename="funcoes_strings.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoes_strings.h" />
+		<Unit filename="funcoes_utilitarias.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoes_utilitarias.h" />
+		<Unit filename="funcoes_vetores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gestor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gestor.h" />
+		<Unit filename="gestorComandos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gestorComandos.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_operacoes_numericas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_operacoes_numericas.h" />
+		<Unit filename="menu_utilizacao_vetores.h" />
+		<Unit filename="menu_vetores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="operacoesNumericas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="operacoes_conversordebases.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="operacoes_conversordebases.h" />
+		<Unit filename="operacoes_vetores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="operacoes_vetores.h" />
+		<Unit filename="operacoesnumericas.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
